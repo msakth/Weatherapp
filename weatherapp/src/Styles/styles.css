@@ -1,0 +1,30 @@
+a.active {
+  color: blue;
+}
+
+#weather .panel-default > .panel-heading {
+  background-color: #004990;
+  border-color: #004990;
+}
+
+#weather .panel-title {
+  color: #fff;
+}
+
+#weather .weatherList {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #e3ebf2;
+  background: #e3eaf2;
+}
+
+.weatherListRowHeader > span {
+  margin-left: 20px;
+}
+
+.well.custom-well-small {
+  width: 8em;
+  display: inline-block;
+  margin-right: 1em;
+  text-align: center;
+}
